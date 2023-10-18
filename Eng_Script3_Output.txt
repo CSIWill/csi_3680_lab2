@@ -1,0 +1,16 @@
+sh-3.2$ /usr/local/bin/python3.10 /Users/onirobotics/Documents/csi_3680/eng_lab2/Eng_Script3.py
+-----Inventory-----
+12              arrow
+1               dagger
+42              gold coin
+1               rope
+6               torch
+Total number of items: 62
+-----Inventory-----
+12              arrow
+2               dagger
+45              gold coin
+1               rope
+1               ruby
+6               torch
+Total number of items: 67

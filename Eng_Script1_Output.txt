@@ -1,0 +1,16 @@
+sh-3.2$ /usr/local/bin/python3.10 /Users/onirobotics/Documents/csi_3680/eng_lab2/Eng_Script1.py
+Original String is:
+1, 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97
+Insert a number: 45
+Updated String is:
+1, 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 45, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97
+sh-3.2$ /usr/local/bin/python3.10 /Users/onirobotics/Documents/csi_3680/eng_lab2/Eng_Script1.py
+Original String is:
+1, 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97
+Insert a number: -1
+A valid input should contain only non-negative numbers
+sh-3.2$ /usr/local/bin/python3.10 /Users/onirobotics/Documents/csi_3680/eng_lab2/Eng_Script1.py
+Original String is:
+1, 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97
+Insert a number: Hello World!
+A valid input should contain only non-negative numbers

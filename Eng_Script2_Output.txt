@@ -1,0 +1,5 @@
+sh-3.2$ /usr/local/bin/python3.10 /Users/onirobotics/Documents/csi_3680/eng_lab2/Eng_Script2.py
+|     gryffindor     |        scarlet and gold        |    lion    |
+|     hufflepuff     |        yellow and black        |   badger   |
+|     ravenclaw      |        blue and bronze         |   eagle    |
+|     slytherin      |        green and silver        |   snake    |
